@@ -3,17 +3,40 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/LinkedInPFP.png
 ---
 
 :::{#me}
 
+Hi there! I'm Ben, a current accelerated masters student in the Molecular and Cellular Biotechnology program at the University of New Hampshire. I recently graduated summa cum laude with my Bachelors of Science in Biochemistry, Molecular, and Cellular Biology.
+
 ## Goals
+Do something great that both fulfills me and contributes to society.
 
 ## Education
 
+**Masters of Science** - Molecular and Cellular Biotechnology - University of New Hampshire
+
+**Bachelors of Science** - Biochemistry, Molecular, and Cellular Biology - University of New Hampshire
+
+**High School Diploma** - Salem High School - Salem, NH
+
 ## Experience
+
+**Undergraduate Research Assistant** - Department of Chemical Engineering and Bioengineering - University of New Hampshire
+
+**Advisor:** Dr. Linqing Li
+
+**Project:** Engineered Biocomposites for Angiogenic Signaling and Tissue Vascularization
+
+•	Characterized how biophysical properties of Collagen I & DexMA composites influence HUVEC & HDF spreading & migration
+
+•	Identified material formulations that promote coordinated, group cell translocation, & in situ vasculature formation in co-culture
+
+•	Established design principles linking scaffold composition to vasculogenic outcome, laying groundwork for future paracrine signaling studies and organoid applications
+
+
 
 :::
 
-Thanks for checking out my web site!
+Thanks for checking out my website!
