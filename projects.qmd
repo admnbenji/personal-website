@@ -1,9 +1,20 @@
 ---
 title: "Projects"
+page-layout: full
 ---
 
-## Project 1
+## Engineered Biocomposites for Angiogenic Signaling and Tissue Vascularization
+*Presented at the 2026 University of New Hampshire Undergraduate Research Conference (URC)*
+*Presented at the 2026 New Hampshire Life Sciences (NHLS) Empower Life Sciences Event*
 
-## Project 2
+Below is a copy of my recent project presentation. You can view the slides directly in the frame or click the download button below.
 
-## Project 3
+<a href="BBURCPoster2026.pdf" class="btn btn-primary" target="_blank" role="button" style="margin-bottom: 15px;">
+  Download Presentation (PDF)
+</a>
+
+<iframe src="BBURCPoster2026.pdf" width="100%" height="600px" style="border: 1px solid #dee2e6;">
+  <p>Your browser does not support embedding PDFs. Please download the PDF to view it: <a href="your-presentation.pdf">Download PDF</a>.</p>
+</iframe>
+
+
