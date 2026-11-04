@@ -1,14 +1,19 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - BBResume.pdf
   
 website:
   title: "Ben Begin"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: BBResume.pdf
+        target: _blank
+
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/benbegin/
@@ -20,8 +25,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: litera
     toc: true
 
 editor: source
-
