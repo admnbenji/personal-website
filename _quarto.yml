@@ -11,8 +11,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Resume"
-        href: BBResume.pdf
-        target: _blank
+        href: resume.qmd
 
     tools:
       - icon: linkedin
